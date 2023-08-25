@@ -1,5 +1,5 @@
-# tkinter-image-processor
-tkinter-image-processor using python
+# python-image-processor
+
 
 
 The application follows a architecture where the main functionality is encapsulated within the **_ImageProcessor_** class. The class initializes the GUI elements, and performs image processing operations, and visualizing its histogram.
